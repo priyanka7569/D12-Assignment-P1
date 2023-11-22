@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\bin\Debug\Assignment_17_1.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\bin\Debug\Assignment_17_1.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\bin\Debug\Assignment_17_1.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\obj\Debug\Assignment_17_1.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\obj\Debug\Assignment_17_1.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\obj\Debug\Assignment_17_1.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment_17_1\Assignment_17_1\obj\Debug\Assignment_17_1.pdb
